@@ -1,0 +1,6 @@
+{
+  "name": "BlinkCart",
+  "description": "Instant 10-minute grocery delivery app with real-time tracking, multilingual support, loyalty rewards, secure payments, and dark store inventory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
